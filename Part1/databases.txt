@@ -1,3 +1,5 @@
+List of files that you will find in this Part1 session: 
+
 seq.fasta --> This is the problem sequence
 
 sequence.fasta --> The entire genome of the oragnism to which the problem sequence belongs to. 

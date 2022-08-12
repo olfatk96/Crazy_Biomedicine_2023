@@ -1,0 +1,7 @@
+In this folder you can find:
+
+Samples --> The 16S rRNA sequencing reads from the different samples
+
+Database --> SILVA database 
+
+Output_dada2 --> Files obtained at the end of dada2.

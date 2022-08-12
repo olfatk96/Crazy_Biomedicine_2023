@@ -1,3 +1,5 @@
 seq.fasta --> This is the problem sequence
 
 sequence.fasta --> The entire genome of the oragnism to which the problem sequence belongs to. 
+
+Bash_manual --> List of bash commands

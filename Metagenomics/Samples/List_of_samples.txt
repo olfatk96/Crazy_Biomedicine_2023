@@ -1,8 +1,0 @@
-The 16S rRNA sequencing reads from the samples that we are going to analyze (until the taxonomy assignment):
-
-SRR3361505_1.fastq.gz  SRR3361505_2.fastq.gz 
-SRR3361506_1.fastq.gz  SRR3361506_2.fastq.gz  
-SRR3361507_1.fastq.gz  SRR3361507_2.fastq.gz  
-SRR3361508_1.fastq.gz  SRR3361508_2.fastq.gz
-SRR3361509_1.fastq.gz  SRR3361509_2.fastq.gz
-SRR3361510_1.fastq.gz  SRR3361510_2.fastq.gz

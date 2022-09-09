@@ -1,0 +1,7 @@
+ID	Sample	Condition
+X0610	Pacient1	Control
+X0687	Pacient1	Inflamed
+X1809	Pacient2	Control
+X1812	Pacient2	Inflamed
+X1938	Pacient3	Control
+X1941	Pacient3	Inflamed

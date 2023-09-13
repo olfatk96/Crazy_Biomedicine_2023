@@ -1,4 +1,4 @@
-# Crazy_Biomedicine_2022
+# Crazy_Biomedicine_2023
 Name of the workshop: An omics complex puzzle? Let’s decipher it by using Bioinformatics!
 
 Authors: Olfat Khannous Lleiffe and Marina Murillo Recio
